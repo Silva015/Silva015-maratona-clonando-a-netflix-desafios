@@ -1,0 +1,30 @@
+.menu-bar-internal {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 48px;
+    margin: 0 auto;
+    justify-content: space-between;
+  }
+  
+  .menu-bar-internal div {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-bar-internal div img {
+    margin-left: 12px;
+  }
+  
+  .menu-bar-internal img {
+    margin-right: 12px;
+  }
+  
+  .menu-bar-internal p {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 16px;
+  }

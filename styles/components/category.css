@@ -1,0 +1,39 @@
+.category-package {
+  width: 90%;
+  margin: 0 auto;
+  height: 119px;
+}
+
+.category {
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.navigation-text {
+  width: 200px;
+  height: 22px;
+  left: 12px;
+  top: 64px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #2f2f2f;
+}
+
+.category__icon {
+    margin-left: 20px;
+}
+
+.category__icon p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #737373;
+}

@@ -1,0 +1,30 @@
+.menu-bar-initial {
+  display: flex;
+  align-items: center;
+  width: 90%;
+  height: 48px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.menu-bar-initial div {
+  display: flex;
+  align-items: center;
+}
+
+.menu-bar-initial div img {
+  margin-left: 12px;
+}
+
+.menu-bar-initial img {
+  margin-right: 12px;
+}
+
+.menu-bar-initial p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  margin-left: 16px;
+}
